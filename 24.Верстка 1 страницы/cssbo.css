@@ -1,0 +1,79 @@
+.logo-bi {
+    width: 290px;
+    height: 290px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.header {
+    text-align: center;
+}
+
+.header_h1 {
+     font-size: 29px;
+}
+.header_h3 {
+    color: rgb(111 11 111);
+}
+
+main {
+    border: 2px solid;
+    text-align: center;
+}
+
+.Skills ol {
+    list-style: none;
+}
+
+.hr {
+    width: 50%;
+    height: 3px;
+   background-color:rgb(123, 105, 204);
+}
+
+.video {
+    width: 780px;
+    height: 470px;
+}
+
+.ed_table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ed_table th,
+.ed_table td {
+    border: 1px solid black;
+    padding: 12px;
+}
+
+.qout {
+    font-size: 30px;
+}
+
+.form {
+    width: 600px;
+    margin: 0 auto;
+}
+.form-control {
+    width: 100%;
+}
+
+.control-text {
+    width: 70%;
+}
+.button-form {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    height: 100px;
+    text-align: center;
+    background-color: rgb(141, 122, 98);
+}
+
+.a-contact {
+    text-decoration: none;
+    color: black;
+}
